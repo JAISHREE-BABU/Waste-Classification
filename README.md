@@ -1,4 +1,16 @@
-# Waste-Classification
-The Smart Waste Classifier is an AI-powered web application that automatically categorizes waste into recyclable classes using deep learning. Built with a TensorFlow/Keras Convolutional Neural Network (CNN) and transfer learning with MobileNetV2, the system processes waste images through a custom-trained model that identifies six categories: cardboard, glass, metal, paper, plastic, and trash. The full-stack implementation features a Streamlit web interface for real-time image upload and classification, while the backend employs Python with OpenCV for image preprocessing, scikit-learn for evaluation metrics, and comprehensive data augmentation techniques. The project demonstrates an end-to-end machine learning pipeline—from dataset collection and model training to web deployment—providing an intelligent solution for automated waste sorting that promotes environmental sustainability through technology.
+# ♻️ Smart Waste Classifier
 
-<img width="2626" height="1573" alt="Image" src="https://github.com/user-attachments/assets/638883ae-fb07-491b-8ee5-0b869b031fea" />
+A deep learning project that classifies waste into recyclable categories using Convolutional Neural Networks (CNN).
+
+## Features
+- Classifies waste into 6 categories: cardboard, glass, metal, paper, plastic, trash
+- Web interface for easy image upload and classification
+- Transfer learning with MobileNetV2
+- Real-time predictions with confidence scores
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone <your-repo-url>
+cd waste-classifier-project
