@@ -13,4 +13,7 @@ A deep learning project that classifies waste into recyclable categories using C
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
+
 cd waste-classifier-project
+
+<img width="2626" height="1573" alt="Image" src="https://github.com/user-attachments/assets/638883ae-fb07-491b-8ee5-0b869b031fea" />
